@@ -1,8 +1,8 @@
 ---
-title: "O que sabemos sobre os macacos-prego `r emo::ji('monkey')`"
+title: "O que sabemos sobre os macacos-prego? `r emo::ji('monkey')`"
 subtitle: "Conhecimentos dos moradores da Costa da Lagoa"
 author: "Marcio Baldissera Cure"
-institute: "PPG Ecologia, UFSC - [Laboratório IPES](https://ipes.ufsc.br) - [Frutos da Costa](https://instagram.com/frutos_da_costa)"
+institute: "[PPG Ecologia, UFSC](https://poseco.ufsc.br) - [Laboratório IPES](https://ipes.ufsc.br) - [Frutos da Costa](https://instagram.com/frutos_da_costa)"
 date: "`r Sys.Date()`"
 output:
   xaringan::moon_reader:
@@ -33,27 +33,37 @@ xaringanExtra::use_webcam()
 xaringanExtra::use_broadcast()
 ```
 
+# Objetivos
+.
+### Levantar os conhecimentos e percepções dos moradores; e
+.
+
+--
+
+### Mapear os conflitos existentes.
+
+---
 .center[
 # Qual a importância desta pesquisa?
 ]
 
-#### 1. Informar moradores da Costa da Lagoa
+#### 1. Levantar informações e percepções;
 
 --
 
-#### 2. Proteger as populações de macacos-prego
+#### 2. Proteger as populações de macacos-prego;
 
 --
 
-#### 3. Informar Gestores e tomadores de decisão
+#### 3. Informar Gestores e tomadores de decisão;
 
 --
 
-#### 4. Guiar políticas de conservação e manejo
+#### 4. Guiar políticas de conservação e manejo;
 
 --
 
-#### 5. Incentivar e promover a ciência cidadã
+#### 5. Incentivar e promover a ciência cidadã;
 
 --
 
@@ -61,20 +71,20 @@ xaringanExtra::use_broadcast()
 
 --
 
-#### 7. Empoderar a comunidade
+#### 7. Empoderar a comunidade.
 
 
 ---
-# Distribuição geográfica do _S. nigritus_
+# Distribuição geográfica do _Sapajus nigritus_
 
 .pull-left[.center[<img width="80%" src="https://upload.wikimedia.org/wikipedia/commons/c/c4/Black_Capuchin_area.png">]
 _Fonte: Wikipedia_]
 
 .pull-right[
 #### Algumas curiosidades sociais
-- Femeas e machos migram com a mesma probabilidade;
+- Fêmeas e machos migram com a mesma probabilidade;
 - Fêmeas não formam relações sociais fortes com outras fêmeas;
-- Machos formam relações sociais fracas, caracterizadas como tolerantes;
+- Os machos formam relações sociais fracas, caracterizadas como tolerantes;
 - Relações sociais mais fortes são entre fêmeas e machos;
 - Parentesco não apresentou influencia nas interações.
 
@@ -111,12 +121,20 @@ class: top, center
 _Fonte:_ [Tese de doutorado de Igor Dias Serique (2016)](https://ppgnc.propesp.ufpa.br/ARQUIVOS/dissertacoes/Disserta%C3%A7%C3%A3o%20Igor%20Serique%20v%20publicada.pdf)
 
 ---
+### Eles cuidam de longe
 
 <img width="18%" src="https://tm.ibxk.com.br/2022/08/12/12195800766399.jpg">
 
+--
+
 <img width="30%" src="https://tm.ibxk.com.br/2022/08/12/12195800766399.jpg">
 
+--
+
 <img width="50%" src="https://tm.ibxk.com.br/2022/08/12/12195800766399.jpg">
+
+--
+
 
 <img width="80%" src="https://tm.ibxk.com.br/2022/08/12/12195800766399.jpg">
 
@@ -127,6 +145,14 @@ class: top, center
 <img width="1200%" src="Figuras/crescimento_pop.png">
 
 _Imagem de [Khan Academy](https://pt.khanacademy.org)_
+---
+# Minha hipótese
+
+.center[
+<img width="150%" src="Figuras/frame-work-macaco-prego.png">
+]
+
+
 ---
 class: top, left
 
@@ -156,7 +182,7 @@ _fonte:_ [Tese de Mota, 2019](https://repositorio.unb.br/handle/10482/35206)
 ---
 class: top, center
 
-# Nada justifica a violência
+# Violência contra macacos
 
 <img width="100%" src="Figuras/violencia1.png">
 
@@ -165,8 +191,7 @@ class: top, center
 ---
 class: top, center
 
-# Não vamos longe...
-
+# Casos preocupantes em SC
 <img width="60%" src="Figuras/violencia4.png">
 --
 
@@ -177,28 +202,30 @@ class: top, center
 <img width="60%" src="Figuras/violencia5.png">
 
 
+
+---
+class: top, left
+
+
+# Métodos
+
+- As figuras, análises e a apresentação foram feitas usando o [RStudio](https://rstudio.com)
+
+- Código disponível no repositório do github [Mauritia-flexuosa](https://github.com/Mauritia-flexuosa/macaco-prego)
+
 ---
 class: top, center
 
 
 # Local `r emo::ji("island")` 
 <img width="80%" src="./Figuras/mapa_costa.png">
----
-class: top, center
-# Objetivos
-.
-### Levantar os conhecimentos e percepções dos moradores da Costa da Lagoa sobre a população e comportamento dos macacos-prego da região;
-.
-
---
-
-### Mapear os conflitos existentes entre os humanos e os macacos-prego.
 
 ---
 class: top, center
 
 
-# Caracterizando os informantes  `r emo::ji("woman")` `r emo::ji("man")` 
+
+#Caracterizando os informantes  `r emo::ji("child")` `r emo::ji("adult")` `r emo::ji("older_adult")` `r emo::ji("zombie")`  
 
 <img width="90%" src="./Figuras/macaco-prego-imagens/Fig_1.png">
 
@@ -287,13 +314,6 @@ class: top, center
 
 <img width="100%" src="./Figuras/macaco-prego-imagens/Fig_11.png">
 ---
-# Minha hipótese
-
-.center[
-<img width="120%" src="Figuras/frame-work-macaco-prego.png">
-]
-
----
 class: top, center
 
 # Estratégias usadas pelos moradores
@@ -324,20 +344,15 @@ class: top, left
 
 - Não dê alimentos aos animais silvestres;
 - Minimize os efeitos do seu pet no ambiente natural;
-- Lembre-se que o que é bom para os humanos, nem sempre faz bem aos animais;
+- Lembre-se que o que é bom para os humanos nem sempre faz bem aos animais;
 - Busque informações em fontes seguras.
 
 ---
-class: top, left
+class: center, top
 
-# Sobre os métodos
+# Quais os próximos passos?
 
-- As figuras, análises e a apresentação foram feitas usando o [RStudio](https://rstudio.com)
-
-- Código disponível no repositório do github [Mauritia-flexuosa](https://github.com/Mauritia-flexuosa/macaco-prego)
-
-
-.center[<img width="45%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Cebus_nigritus_cucullatus_%28Black_capuchin_-_southern_form%29.jpg/280px-Cebus_nigritus_cucullatus_%28Black_capuchin_-_southern_form%29.jpg">
+.center[<img width="41%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Cebus_nigritus_cucullatus_%28Black_capuchin_-_southern_form%29.jpg/280px-Cebus_nigritus_cucullatus_%28Black_capuchin_-_southern_form%29.jpg">
 
 _Imagem da Wikipedia_
 ]

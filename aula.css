@@ -31,7 +31,7 @@
 
 .footnote {
   border-top: 1px solid #007935;
-  font-size: 0.6em;
+  font-size: 1.4em;
 }
 
 .remark-code-line-highlighted { background-color: rgba(225, 224, 0, 0.6); }
@@ -57,7 +57,7 @@ a {
 }
 
 a:hover {
-    font-size: 1.2em;
+    font-size: 1.8em;
     color: #EC008C;
 }
 
@@ -108,6 +108,6 @@ a:hover {
 .mjx-chtml { font-size: 100% !important; }
 
 .remark-slide-content > ul {
-	font-size: 1.0em;
+	font-size: 1.6em;
 }
 
