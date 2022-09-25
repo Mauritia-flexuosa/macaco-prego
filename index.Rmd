@@ -32,47 +32,11 @@ xaringanExtra::use_webcam()
 ```{r broadcast, echo=FALSE}
 xaringanExtra::use_broadcast()
 ```
+# SUMÁRIO
 
-# Objetivos
-.
-### Levantar os conhecimentos e percepções dos moradores; e
-.
+## 1. Contextualização;
 
---
-
-### Mapear os conflitos existentes.
-
----
-.center[
-# Qual a importância desta pesquisa?
-]
-
-#### 1. Levantar informações e percepções;
-
---
-
-#### 2. Proteger as populações de macacos-prego;
-
---
-
-#### 3. Informar Gestores e tomadores de decisão;
-
---
-
-#### 4. Guiar políticas de conservação e manejo;
-
---
-
-#### 5. Incentivar e promover a ciência cidadã;
-
---
-
-#### 6. Valorizar o conhecimento local; e
-
---
-
-#### 7. Empoderar a comunidade.
-
+## 2. Apresentação dos resultados da pesquisa.
 
 ---
 # Distribuição geográfica do _Sapajus nigritus_
@@ -117,7 +81,6 @@ class: top, center
 <img width="55%" src="https://escolaeducacao.com.br/wp-content/uploads/2019/03/amazonia_planeta_verde-300x175.jpg">
 
 
-
 _Fonte:_ [Tese de doutorado de Igor Dias Serique (2016)](https://ppgnc.propesp.ufpa.br/ARQUIVOS/dissertacoes/Disserta%C3%A7%C3%A3o%20Igor%20Serique%20v%20publicada.pdf)
 
 ---
@@ -140,13 +103,17 @@ _Fonte:_ [Tese de doutorado de Igor Dias Serique (2016)](https://ppgnc.propesp.u
 
 ---
 class: top, center
-# O que limita o crescimento populacional?
+## O que limita o crescimento populacional?
+
+--
+
+- Condições e recursos
 
 <img width="1200%" src="Figuras/crescimento_pop.png">
 
 _Imagem de [Khan Academy](https://pt.khanacademy.org)_
 ---
-# Minha hipótese
+## Minha hipótese para o caso da Costa da Lagoa
 
 .center[
 <img width="150%" src="Figuras/frame-work-macaco-prego.png">
@@ -201,6 +168,46 @@ class: top, center
 
 <img width="60%" src="Figuras/violencia5.png">
 
+---
+# Objetivos
+.
+### 1. Levantar os conhecimentos e percepções dos moradores; e
+.
+
+--
+
+### 2. Mapear os conflitos existentes.
+
+---
+.center[
+# Qual a importância desta pesquisa?
+]
+
+#### 1. Levantar informações e percepções;
+
+--
+
+#### 2. Proteger as populações de macacos-prego;
+
+--
+
+#### 3. Informar Gestores e tomadores de decisão;
+
+--
+
+#### 4. Guiar políticas de conservação e manejo;
+
+--
+
+#### 5. Incentivar e promover a ciência cidadã;
+
+--
+
+#### 6. Valorizar o conhecimento local; e
+
+--
+
+#### 7. Empoderar a comunidade.
 
 
 ---
@@ -208,6 +215,10 @@ class: top, left
 
 
 # Métodos
+
+- [Questionário](https://docs.google.com/forms/d/1uDRLT5u-qE48NJlz8nlVycuzkDSqP1HdGd_UTXbv6LM/edit) com 15 perguntas.
+
+- Convites feitos através de grupos de WhatsApp da comunidade
 
 - As figuras, análises e a apresentação foram feitas usando o [RStudio](https://rstudio.com)
 
@@ -223,9 +234,11 @@ class: top, center
 ---
 class: top, center
 
+## Caracterizando os informantes  `r emo::ji("child")` `r emo::ji("adult")` `r emo::ji("older_adult")` `r emo::ji("zombie")`  
 
-
-#Caracterizando os informantes  `r emo::ji("child")` `r emo::ji("adult")` `r emo::ji("older_adult")` `r emo::ji("zombie")`  
+.left[
+### 39 participantes
+]
 
 <img width="90%" src="./Figuras/macaco-prego-imagens/Fig_1.png">
 
@@ -325,16 +338,26 @@ class: top, center
 # Estratégias usadas pelos moradores
 
 .left[
-- "Fecho tudo quando me afasto de casa"
-- "amarrar a geladeira"
-- "alame nas janelas"
-- "Atenção aos sons dos galhos"
-- "Cachorros em casa"
-- "não deixo frutas à vista"
-- "espanto com palmas e sons com a boca"
-- "Converso com eles e mantenho as janelas fechadas quando ñ estóu em casa"
-- "Gritar o nome do vizinho alto"
-- "funda com pedrinhas"
+<font size=6>"Fecho tudo quando me afasto de casa"</font><br>
+<font size=6>"Amarrar a geladeira"</font><br>
+<font size=6>"Alarme nas janelas"</font><br>
+<font size=6>"Atenção aos sons dos galhos"</font><br>
+<font size=6>"Cachorros em casa"</font><br>
+<font size=6>"Não deixo frutas à vista"</font><br>
+]
+
+
+---
+class: top, center
+
+## ...continuação estratégias
+
+.left[
+
+<font size=6>"Espanto com palmas e sons com a boca"</font><br>
+<font size=6>"Converso com eles e mantenho as janelas fechadas quando ñ estóu em casa"</font><br>
+<font size=6>"Gritar o nome do vizinho alto"</font><br>
+<font size=6>"Funda com pedrinhas"</font><br>
 ]
 
 ---
@@ -342,30 +365,27 @@ class: top, left
 
 # Recomendações
 
-- Não dê alimentos aos animais silvestres;
-- Minimize os efeitos do seu pet no ambiente natural;
-- Lembre-se que o que é bom para os humanos nem sempre faz bem aos animais;
-- Busque informações em fontes seguras.
-
+<font size=6>Não dê alimentos aos animais silvestres;</font><br>
+<font size=6>Minimize os efeitos do seu pet no ambiente natural;</font><br>
+<font size=6>Lembre-se que o que é bom para os humanos nem sempre faz bem aos animais;</font><br>
+<font size=6>Busque informações em fontes seguras.</font><br>
+<font size=6>Não seja violento, os animais não têm culpa!
 ---
 class: center, top
 
 # Quais os próximos passos?
 
+.left[
+<font size=5>1. Novos levantamentos;
+<font size=5>2. Interesse de pesquisadores;
+<font size=5>3. Ação de gestores e tomadores de decisão;
+<font size=5>4. Participação ativa da comunidade.
+]
 .center[<img width="41%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Cebus_nigritus_cucullatus_%28Black_capuchin_-_southern_form%29.jpg/280px-Cebus_nigritus_cucullatus_%28Black_capuchin_-_southern_form%29.jpg">
 
 _Imagem da Wikipedia_
 ]
 
-<footer><p class="small">
-
-<h3>Contatos:</h3>
-
-<div>
-<a href = "mailto:marciobcure@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- <a href="https://instagram.com/frutos_da_costa" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-</div>
-</p></footer>
 
 ---
 class: top, center
@@ -388,7 +408,7 @@ class: top, center
 
 
 ---
-# Referências
+## Outras referências
 
 - [Wikipedia - macaco-prego](https://pt.wikipedia.org/wiki/Macaco-prego-preto)
 - [Notícia violência 1](https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2022/08/10/policia-abre-inquerito-para-apurar-intoxicacao-e-morte-de-macacos-na-regiao-de-rio-preto.ghtml)
@@ -397,7 +417,7 @@ class: top, center
 - [Desidade e tamanho populacional](https://www.scielo.br/j/rbzool/a/3dTt5RZzDrDkGNrsSrRW8Xr/?format=pdf&lang=pt)
 - Sobre comportamento social e forrageio de alimentos antrópicos: [Tese de Ricardo Mota](https://repositorio.unb.br/handle/10482/35206)
 
-.center[<img width="210" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Sapajus_nigritus_2.jpg/150px-Sapajus_nigritus_2.jpg">
+.center[<img width="100" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Sapajus_nigritus_2.jpg/150px-Sapajus_nigritus_2.jpg">
 
 _Imagem da Wikipedia_
 ]
