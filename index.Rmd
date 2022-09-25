@@ -183,7 +183,7 @@ class: top, center
 # Qual a importância desta pesquisa?
 ]
 
-#### 1. Levantar informações e percepções;
+#### 1. Levantar e divugar dados abertamente;
 
 --
 
@@ -228,8 +228,11 @@ class: top, left
 class: top, center
 
 
-# Local `r emo::ji("island")` 
-<img width="80%" src="./Figuras/mapa_costa.png">
+## Local `r emo::ji("island")` 
+
+.left[Inclui área da [ReViS Meiembipe](https://www.pmf.sc.gov.br/arquivos/diario/pdf/11_11_2021_20.38.19.862cd1e58f3f3e523c6726b88c316e28.pdf)]
+
+<img width="70%" src="./Figuras/mapa_costa.png">
 
 ---
 class: top, center
@@ -349,8 +352,9 @@ class: top, center
 
 ---
 class: top, center
+#  ...continuação
 
-## ...continuação estratégias
+## Estratégias dos moradores
 
 .left[
 
